@@ -1,12 +1,28 @@
 ## Seja bem vindo à Nordweg!
 
-Estamos imensamente felizes em ter você aqui. Você foi convidado para fazer parte do nosso time porque acreditamos no seu conhecimento e potencial. Da mesma forma, nos sentimos alinhados com a sua forma de pensar e os seus valores, o que é importantíssimo para que possamos continuar construindo e reforçando a cultura Nordweg.
+Estamos imensamente felizes em ter você aqui. Você foi convidado para fazer parte do nosso time porque acreditamos que você tem conhecimento e potencial de tornar o nosso time mais forte.
 
-Acreditamos na liberdade através da responsabilidade, e atráves dela construimos um ambiente de constante aprendizado e inovação, onde podemos nos desenvolver como os seres humanos completos que somos e onde o nosso trabalho e os nossos valores mais profundos possam andar juntos.
-
-Queremos que sua experiência na Nordweg seja engrandecedora e que você possa sair dela como uma pessoa mais preparada, feliz e alguns passos mais próxima dos seus sonhos. 
+Queremos que sua experiência na Nordweg seja engrandecedora pessoal e profissionalmente, trabalhando entre pessoas que você admira em um ambiente de muitas trocas e progresso.
 
 ## Forma de trabalhar
+
+**Liberdade com responsabilidade**
+
+Na Nordweg evitamos ao máximo burocracias e sistemas hierárquicos engessados, pois acreditamos que os mesmos apenas limitam a criatividade e a inovação. Acreditamos que a liberdade, acompanhada de responsabilidade, é base fundamental para o ambiente de trabalho inovador e eficiente que visionamos.
+
+Por isso, não temos chefes tradicionais, nem instruções ou mapas prontos. Temos processos definidos, sim. Mas processos escritos jamais poderão englobar todos os detalhes e centenas de escolhas diárias sendo feitas em uma grande marca. Você esta aqui para ajudar a criar soluções que ainda não foram escritas, para problemas que ainda no foram resolvidos. Você nos ajudará a desbravar novos caminhos
+
+**Respeito do tempo**
+
+Saber respeitar o seu tempo e, principalmente, o dos outros, é fundamental. Saiba diferenciar momentos de descontração e diversão, de momentos 
+
+ler o momento
+
+
+**Eficiência**
+
+Confortos que só podemos ter se formos eficientes no resto do tempo
+
 
 ### Horários
 
