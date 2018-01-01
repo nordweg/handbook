@@ -10,4 +10,4 @@
 
 
 ## Pessoal
-[O processo de contratação](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md)
+- [O processo de contratação](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md)
