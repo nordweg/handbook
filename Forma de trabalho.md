@@ -33,21 +33,35 @@ O melhor a fazer, sempre que possível, é propor uma sugestão junto com os pro
 ## Eficiência
 
 Confortos que só podemos ter se formos eficientes no resto do tempo
+Usar o mínimo de recursos possível, (Ex.: 4 pessoas envolvidas em algo por muito tempo, quando apenas uma ou duas seriam necessárias.)
+
+## Inbox zero
 
 
+## Hell Yes or No
 
+## Mindset de crescimento
+
+## Segurança e política de senhas
+
+## Rotina + flexibilidade
+
+## Melhor pedir desculpas as vezes do que permissão sempre
+
+
+<!---
 
 # Forma de trabalhar
 Liberdade com responsabilidade
 Somos extremamente focados em produtividade (O que posso fazer que gera o maior impacto? Como posso)
-Usar o mínimo de recursos possível, (Ex.: 4 pessoas envolvidas em algo por muito tempo, quando apenas uma ou duas seriam necessárias.)
-Como lidar com Interrupções (Não interromper, e não deixar de se focar quando pessoa A fala com pessoa B. Nem todos os assuntos, todos precisam se envolver. Com um time crescente, se todos se involverem quando alguém fala algo, não teremos mais qualquer momento para foco)
+
 Tempo é o nosso recurso mais escasso e mais sagrado. Repeite o seu tempo e o dos outros profundamente.
-Hell Yes or No
-Inbox Zero
-Melhor pedir desculpas as vezes do que permissão sempre
-Rotina + flexibilidade
-Mindset de crescimento
-Política de senhas
+
+
+
+
+
 Processos (Se sair dele, voltar o antes possível)
 Processos são a base, mas por volta do processo vem o bom senso. Não somos uma máquina, e nenhum processo é perfeito ou engloba todas as situações. Seu bom senso é fundamental para encontrar o equilibrio entre as necessidades e interesses do cliente e os da empresa durante as negociações.
+
+--->
