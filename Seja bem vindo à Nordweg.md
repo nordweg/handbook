@@ -1,12 +1,12 @@
-## Seja bem vindo à Nordweg!
+# Seja bem vindo à Nordweg!
 
 Estamos imensamente felizes em ter você aqui. Você foi convidado para fazer parte do nosso time porque acreditamos que você tem conhecimento e potencial de tornar o nosso time mais forte.
 
 Queremos que sua experiência na Nordweg seja engrandecedora pessoal e profissionalmente, trabalhando entre pessoas que você admira em um ambiente de muitas trocas e progresso.
 
-## Forma de trabalhar
+# Forma de trabalhar
 
-**Liberdade com responsabilidade**
+## Liberdade com responsabilidade
 
 Na Nordweg evitamos ao máximo burocracias e sistemas hierárquicos engessados, pois acreditamos que os mesmos apenas limitam a criatividade e a inovação. Acreditamos que a liberdade, acompanhada de responsabilidade, é base fundamental para o ambiente de trabalho inovador e eficiente.
 
@@ -16,7 +16,7 @@ Você esta aqui para ajudar a criar soluções que ainda não foram escritas, pa
 
 Dessa forma, podemos construir um ambiente de grande liberdade onde estamos livres para dar o nosso melhor e explorar nossa potencial criativo. Manter este tipo de ambiente funcional requer cuidado, energia, e um time de pessoas que conseguem entender e utilizar sua liberdade com responsabilidade. 
 
-**Respeito do tempo e interrupções**
+## Respeito do tempo e interrupções
 
 Com o crescimento do time, crescem também as interações e interrupções durante o trabalho, o que torna cada vez mais difícil achar momentos de foco e produtividade.
 
@@ -24,7 +24,7 @@ Saber respeitar o seu tempo e, principalmente, o dos outros, é fundamental. Ant
 
 O mesmo se aplica a perguntas e outras questões que você possa ter em relação ao seu trabalho. Você sempre é bem vindo a tirar suas dúvidas com com o time e deve fazê-lo quando necessário. No entanto, certifique-se de ter tentado resolver a questão utilizando o seu próprio tempo antes de utilizar o tempo precisoso de um dos seus colegas.
 
-**Foco na solução**
+## Foco na solução
 
 Somos um time enxuto e dinâmico em uma empresa de rápido crescimento. Isso que dizer que cada um de nós tem um número crescente de responsabilidades. Tarefas antes pequenas tornam-se grandes, e precisamos de novos integrantes para atendê-las com a velocidade e o cuidado necessários. É por isso que você está aqui.
 
@@ -33,7 +33,7 @@ Como novo integrante do time, é importante que você mantenha isso em mente e f
 O melhor a fazer, sempre que possível, é propor uma sugestão junto com os problemas apresentados. Feito isso, peça a opinião de seus colegas mais experientes sobre a solução proposta, de forma que possam apenas aprovar ou complementar o que você propôs, ou apenas ajudá-lo do ponto em que você parou em vez de começar do zero.
 
 
-**Eficiência**
+## Eficiência
 
 Confortos que só podemos ter se formos eficientes no resto do tempo
 
