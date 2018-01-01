@@ -2,12 +2,12 @@
 
 ## Seções
 
-- [Seja bem vindo à Nordweg](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md)
-- [Conheça o time](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md)
-- [Forma de trabalho](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md)
-- [Nossos rituais](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md)
-- [Desenvolvendo deste handbook](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md)
-- [Leitura inicial](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md)
+- [Seja bem vindo à Nordweg](https://github.com/nordweg/handbook/blob/master/Seja%20bem%20vindo%20%C3%A0%20Nordweg.md)
+- [Forma de trabalho](https://github.com/nordweg/handbook/blob/master/Forma%20de%20trabalho.md)
+- Conheça o time
+- Nossos rituais
+- Desenvolvendo deste handbook
+- Leitura inicial
 
 
 ## Pessoal
@@ -15,11 +15,11 @@
 
 
 ## Finanças
-- [Contas bancárias](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md)
-- [O pagamento de salários e comissões](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md)
-- [O pagamento de contas](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md)
+- Contas bancárias
+- O pagamento de salários e comissões
+- O pagamento de contas
 
 
 ## Desenvolvimento do software
-- [Boas práticas](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md)
-- [Git workflow](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md)
+- Boas práticas
+- Git workflow
