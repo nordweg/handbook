@@ -2,16 +2,8 @@
 
 ## Seções
 
-* A Nordweg é você
-* O que nos move
-* Quem nos influencia
-* Vocabulário
-* História da empresa
-* Quem faz o que
-* Onde trabalhamos
-* Benefícios e vantagens
-* Começando
-* Como trabalhamos
-* Nossos rituais
-* Sistemas internos
-* Perguntas frequentes
+[Seja bem vindo à Nordweg!](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md): Tudo o que você precisa saber sobre a nossa cultura e forma de trabalhar.
+
+
+## Pessoal
+[O processo de contratação](https://github.com/nordweg/employee-handbook/blob/master/bem-vindo-a-nordweg.md)
