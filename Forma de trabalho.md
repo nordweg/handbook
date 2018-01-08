@@ -32,6 +32,26 @@ Como novo integrante do time, é importante que você mantenha isso em mente e f
 O melhor a fazer, sempre que possível, é propor uma sugestão junto com os problemas apresentados. Feito isso, peça a opinião de seus colegas mais experientes sobre a solução proposta, de forma que possam apenas aprovar ou complementar o que você propôs, ou apenas ajudá-lo do ponto em que você parou em vez de começar do zero.
 
 
+## Processos
+
+Um processo nada mais é do que uma descrição do passo a passo que determinadas pessoas devem tomar em determinadas situações para que a empresa funciona. Quando um pedido é feito, que passos devem ser tomados? Como fazer para pagar uma conta? Como prosseguir quando o produto de um cliente necessita de reparos?
+
+Processos simples, inteligentes e bem descritos são o segredo para uma empresa altamente funcional e com alto nível de satisfação. Quando bem feitos, todos sabem exatamente como agir nas tarefas do dia a dia, o que para o cliente se traduz em consistência e satisfação.
+
+Com processos bem documentados, cria-se uma base de conhecimento sólida e confiável sobre a qual vamos construindo. Novas experiências e apredndizados são incluídos nos processos, reduzindo as chances de que o mesmo ocorra novamente.
+
+É necessário, no entanto, cuidado que os processos tenham sempre o ponto de vista do cliente como foco central. Ou seja, não devem engessar ou limitar a empresa a ponto de colocar em risco a experiência do cliente ou trazer complexidade à empresa. Pelo contrário, processos devem ser mapeados exclusivamente para indetificar e simplificar pontos de fricção e certificar que o cliente tenha uma experiência cada vez melhor.
+
+Segue um exemplo de processo. Neste caso, o que deve acontecer depois que um pedido foi feito para uma loja.
+
+![](Imagens/Processo.jpeg)
+
+Mapear processos ajuda a intentificar complexidades, pontos de falha e ações que poderiam ser automatizadas, deixando as pessoas mais produtivas e clientes mais satisfeitos.
+
+Processos (Se sair dele, voltar o antes possível)
+Processos são a base, mas por volta do processo vem o bom senso. Não somos uma máquina, e nenhum processo é perfeito ou engloba todas as situações. Seu bom senso é fundamental para encontrar o equilibrio entre as necessidades e interesses do cliente e os da empresa durante as negociações.
+
+
 ## Eficiência e produtividade
 
 Confortos que só podemos ter se formos eficientes no resto do tempo
@@ -39,11 +59,6 @@ Usar o mínimo de recursos possível, (Ex.: 4 pessoas envolvidas em algo por mui
 Melhor pedir desculpas as vezes do que permissão sempre
 Somos extremamente focados em produtividade (O que posso fazer que gera o maior impacto? Como posso)
 Tempo é o nosso recurso mais escasso e mais sagrado. Repeite o seu tempo e o dos outros profundamente.
-
-## Processos
-
-Processos (Se sair dele, voltar o antes possível)
-Processos são a base, mas por volta do processo vem o bom senso. Não somos uma máquina, e nenhum processo é perfeito ou engloba todas as situações. Seu bom senso é fundamental para encontrar o equilibrio entre as necessidades e interesses do cliente e os da empresa durante as negociações.
 
 
 ## Inbox zero
@@ -95,8 +110,8 @@ Sabemos que podemos mudar e melhorar, por isso não recebemos feedbacks negativo
 
 Resumo:
 
-  - Utilizar o [1Password](https://1password.com/) para gerar uma senha de alta segurança diferente para cada aplicativo.
-  - Utilizar autenticação de dois passos sempre que possível. Obrigatório no email.
+  - Utilize o [1Password](https://1password.com/) para gerar uma senha de alta segurança diferente para cada aplicativo.
+  - Utilize autenticação de dois passos sempre que possível. Obrigatório no email.
 
 Por último, e de extrema importância, está a segurança da nossa informação. Você terá acesso a diversos aplicativos, pedidos, dados de clientes, dados financeiros e muito mais.
 
