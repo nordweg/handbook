@@ -11,6 +11,8 @@ Você esta aqui para ajudar a criar soluções que ainda não foram escritas, pa
 
 Dessa forma, podemos construir um ambiente de grande liberdade onde estamos livres para dar o nosso melhor e explorar nossa potencial criativo. Manter este tipo de ambiente funcional requer cuidado, energia, e um time de pessoas que conseguem entender e utilizar sua liberdade com responsabilidade.
 
+Um grande exemplo dessa forma de pensar e inpiração é o Netflix. Veja o [culture deck](https://pt.slideshare.net/BarbaraGill3/netflix-culture-deck) no Slideshare.
+
 
 ## Respeito do tempo e interrupções
 
