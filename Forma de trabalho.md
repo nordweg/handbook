@@ -14,6 +14,15 @@ Dessa forma, podemos construir um ambiente de grande liberdade onde estamos livr
 Um grande exemplo dessa forma de pensar e inpiração é o Netflix. Veja o [culture deck](https://pt.slideshare.net/BarbaraGill3/netflix-culture-deck) no Slideshare.
 
 
+## Rotina + flexibilidade
+
+O princípio de liberdade com responsabilidade permite que tenhamos horários flexíveis. No entanto, não podemos esquecer das exigências do nosso corpo. Descobrimos com o tempo que, biologicamente, precisamos de certa rotina de sono, de alimentação, exercícios e etc para termos energia de dar o nosso melhor.
+
+Por isso, por exemplo, somos contra a idéia de vir todos os dias em horários aleatórios ou deixar de vir em alguns dias para ficar trabalhando de casa à noite. Nada impede que isso seja feito em situações especiais, mas no geral este tipo de hábito tende a fugir do controle e trazer mais resultados negativos do que positivos no médio e longo prazo.
+
+Por isso, acreditamos na rotina + flexibilidade, onde no dia a dia mantemos uma rotina de horário e, em ocasiões e necessidades especiais, como ir ao dentista, receber um eletricista em casa ou pegar o filho em algum evento, temos a liberdade de fazê-lo sem qualquer problema.
+
+
 ## Respeito do tempo e interrupções
 
 Com o crescimento do time, crescem também as interações e interrupções durante o trabalho, o que torna cada vez mais difícil achar momentos de foco e produtividade.
@@ -38,27 +47,35 @@ Um processo nada mais é do que uma descrição do passo a passo que determinada
 
 Processos simples, inteligentes e bem descritos são o segredo para uma empresa altamente funcional e com alto nível de satisfação. Quando bem feitos, todos sabem exatamente como agir nas tarefas do dia a dia, o que para o cliente se traduz em consistência e satisfação.
 
-Com processos bem documentados, cria-se uma base de conhecimento sólida e confiável sobre a qual vamos construindo. Novas experiências e apredndizados são incluídos nos processos, reduzindo as chances de que o mesmo ocorra novamente.
+Assim, cria-se uma base de conhecimento sólida e confiável sobre a qual vamos construindo. Novas experiências e apredndizados são incluídos, reduzindo significativamente as chances de erros se repetirem.
 
-É necessário, no entanto, cuidado que os processos tenham sempre o ponto de vista do cliente como foco central. Ou seja, não devem engessar ou limitar a empresa a ponto de colocar em risco a experiência do cliente ou trazer complexidade à empresa. Pelo contrário, processos devem ser mapeados exclusivamente para indetificar e simplificar pontos de fricção e certificar que o cliente tenha uma experiência cada vez melhor.
+É essencial que processos tenham sempre, como foco central, o ponto de vista do cliente. Eles jamais deverão ser limitantes a ponto de colocar em risco a experiência do cliente ou trazer complexidade ou burocracia excessiva. Pelo contrário, eles devem ser criados exclusivamente para indetificar e simplificar pontos de fricção e certificar que o cliente tenha a melhor experiência possível sempre.
 
 Segue um exemplo de processo. Neste caso, o que deve acontecer depois que um pedido foi feito para uma loja.
 
 ![](Imagens/Processo.jpeg)
 
-Mapear processos ajuda a intentificar complexidades, pontos de falha e ações que poderiam ser automatizadas, deixando as pessoas mais produtivas e clientes mais satisfeitos.
+Pontos para lembrar:
 
-Processos (Se sair dele, voltar o antes possível)
-Processos são a base, mas por volta do processo vem o bom senso. Não somos uma máquina, e nenhum processo é perfeito ou engloba todas as situações. Seu bom senso é fundamental para encontrar o equilibrio entre as necessidades e interesses do cliente e os da empresa durante as negociações.
+- Processos servem apenas como guias para direcionar nosso trabalho. Não são escritos em pedra e existem para ajudar, não limitar.
+- Em situações específicas, seu bom senso sempre deve vir antes do processo. Ele é fundamental para encontrarmos o equilíbrio entre os interesses e necessidades do cliente e os da empresa.
+- É necessário um bom motivo para quebrar um processo. Se um processo está inadequado este deve ser atualizado, mas nunca ignorado.
+- Ao sair do fluxo de um processo por algum motivo, volte a ele o antes possível para reduzir chances de erro mais à frente.
 
 
-## Eficiência e produtividade
+## Produtividade e alto impacto
 
-Confortos que só podemos ter se formos eficientes no resto do tempo
-Usar o mínimo de recursos possível, (Ex.: 4 pessoas envolvidas em algo por muito tempo, quando apenas uma ou duas seriam necessárias.)
-Melhor pedir desculpas as vezes do que permissão sempre
-Somos extremamente focados em produtividade (O que posso fazer que gera o maior impacto? Como posso)
-Tempo é o nosso recurso mais escasso e mais sagrado. Repeite o seu tempo e o dos outros profundamente.
+Na Nordweg somos extremamente focados em produtividade. Acreditamos que não importa quantas horas você trabalha, que horas chega chega ou sai, mais sim o impacto que você gera para os resultados da empresa como um todo.
+
+Alta produtividade significa que alcançamos grandes resultados com um equipe enxuta, o que possibilita as nossas boas remunerações em relação a média do mercado e alguns luxos como tempo para meditar, fazer feedbacks, viajar, contar com os melhores ferramentas de trabalho e etc.
+
+A mentalidade de produtividade e alto impacto é fundamental para que possamos alcançar nossos obetivos e manter a Nordweg como um ótimo lugar para trabalhar. Alto impacto não significa fazer as coisas correndo, estar sempre com a sensação de estar atrasado, apagando incêncios. Pelo contrário, alto impacto significa priorização, saber o que é importante, o que trás mais resultados e, também, saber separar momentos de diversão e descontração dos momentos de foco para ter tempo e espaço para trabalhar da melhor forma possível.
+
+Pontos para lembrar:
+
+- É melhor pedir desculpas as vezes do que permissão sempre.
+- Pense sempre no impacto das suas ações no sistema. Se 5 pessoas fazem uma reunião de 1 hora, ela não custou 1 hora, mas sim 5. O mesmo se aplica a todos os tipos de situação, tome cuidado para não utilizar mais recursos do que o necessário.
+- É a nossa produtividade, quando fazemos mais com menos, que banca nossos pequenos luxos que outras empresas não podem oferecer. A diciplina vale a pena.
 
 
 ## Inbox zero
@@ -75,10 +92,6 @@ Nosso tempo é nosso recurso mais limitado e temos que fazer o melhor com ele. T
 Por isso, é importante que você saiba priorizar suas ações, mantendo em mente como cada ação impacta o objetivo final.
 
 Com a enorme quantidade de informação que processamos por dia e o crescente alcance do nosso trabalho, as vezes é difícil diferenciar o que é verdadeiramente uma oportunidade do que é apenas uma distração.
-
-
-
-## Rotina + flexibilidade
 
 
 ## Mentalidade de crescimento
@@ -106,12 +119,8 @@ Sabemos que podemos mudar e melhorar, por isso não recebemos feedbacks negativo
 
 [Leia o artigo completo no blog da Nordweg](https://blog.nordweg.com/2014/05/07/mentalidade-fixa-vs-mentalidade-de-crescimento/)
 
+
 ## Segurança e política de senhas
-
-Resumo:
-
-  - Utilize o [1Password](https://1password.com/) para gerar uma senha de alta segurança diferente para cada aplicativo.
-  - Utilize autenticação de dois passos sempre que possível. Obrigatório no email.
 
 Por último, e de extrema importância, está a segurança da nossa informação. Você terá acesso a diversos aplicativos, pedidos, dados de clientes, dados financeiros e muito mais.
 
@@ -130,3 +139,8 @@ Se enviar uma senha for absolutamente necessário, não envie o login, a senha e
 Dessa forma, mesmo que alguém acesse o email e veja uma mensagem com a senha `*o4XBj=4Btg48[2*`, não saberá do que se trata. Apague emails com senhas imediatamente após serem recebidos.
 
 Alem da senha individual e de alta segurança, utilize serviços de autenticação por dois passos sempre que possível. Isso aumenta significativamente a segurança é obrigatório no email, pois com acesso a ele um hacker poderia recuperar a senhas da maioria dos outros serviços.
+
+Coisas para lembrar:
+
+  - Utilize o [1Password](https://1password.com/) para gerar uma senha de alta segurança diferente para cada aplicativo.
+  - Utilize autenticação de dois passos sempre que possível. Obrigatório no email.

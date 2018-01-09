@@ -2,7 +2,7 @@
 
 ## Seções
 
-- [Seja bem vindo à Nordweg](https://github.com/nordweg/handbook/blob/master/Seja%20bem%20vindo%20%C3%A0%20Nordweg.md)
+- [Seja bem vindo à Nordweg](bem_vindo.md)
 - [Forma de trabalho](https://github.com/nordweg/handbook/blob/master/Forma%20de%20trabalho.md)
 - Conheça o time
 - Nossos rituais
