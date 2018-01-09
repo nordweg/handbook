@@ -87,11 +87,13 @@ O objetivo final é chegar na inbox zero, o que significa que todas as suas dema
 
 ## *Hell yes! or No*
 
-Nosso tempo é nosso recurso mais limitado e temos que fazer o melhor com ele. Toda vez que você diz *Sim* a algo, imediatamente diz *Não* a todas as outas coisas que podem ser feitas e que potencialmente trariam muito mais valor.
+Um dos principais causadores da sobrecarga é a nossa dificuldade, como humanos, de priorizar e dizer não. Quando tudo parece uma oportunidade, logo perdemos a capacidade de enxergar o que realmente importa e ficamos paralisados, sem saber a melhor forma de investir o nosso concorrido tempo.
 
-Por isso, é importante que você saiba priorizar suas ações, mantendo em mente como cada ação impacta o objetivo final.
+Felizmente, existe um hack chamado Hell yeah or No, algo como "Do caralho ou Não". Basicamente, o objetivo é criar espaço reduzindo o número de coisas as quais nos comprometemos a fazer. É priorizar para fazer menos, porém melhor.
 
-Com a enorme quantidade de informação que processamos por dia e o crescente alcance do nosso trabalho, as vezes é difícil diferenciar o que é verdadeiramente uma oportunidade do que é apenas uma distração.
+Se algo não é absolutamente claro no seu potencial levar o nosso time mais perto daquilo que nos faz sair da cama de manhã, a probabilidade é que aquilo seja apenas mais um compromisso querendo entrar na nossa lista de tarefas e competir por atenção, ofuscando aquilo que realmente importa.
+
+O nome pode soar quase irresponsável, mas a verdade é que esta é uma ferramenta altamente eficaz. Saber dizer não é muito difícil e é por isso que essa ferramenta é tão usada por aqui. Sempre que uma ideia ou “oportunidade” aparece, fazemos esta pergunta e ela imediatamente nos dá um senso do que é prioritário e importante no longo prazo.
 
 
 ## Mentalidade de crescimento

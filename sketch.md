@@ -29,3 +29,10 @@ Novos colaboradores passam por um período de experiência de três meses, quand
 O responsável senior deve considerar aspectos da comunicação como abordagem, tom e sentimento a ser utilizados em diferentes situações para aumentar os índices de satisfação dos clientes.
 
 **Semana 2:**
+
+
+
+# Set up inicial
+
+- Fazer login no Google Chrome com usuário da Nordweg
+- Instalar 1Password
