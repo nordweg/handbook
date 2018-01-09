@@ -7,9 +7,10 @@ Queremos que sua experiência na Nordweg seja engrandecedora pessoal e profissio
 
 - [Forma de trabalho](forma_de_trabalho.md)
 - [O time](time.md)
+- [Nossos valores](valores.md)
 - [Nossos rituais](rituais.md)
-- [Leitura inicial](leitura.md)
 - [Segurança e política de senhas](seguranca.md)
+- [Leitura inicial](leitura.md)
 
 
 Se você encontrar um erro de escrita, link quebrado, informação incompleta ou desatualizada, ou mesmo se acha importante adicionar alguma informação faltando, por favor [abra um novo issue](https://github.com/nordweg/handbook/issues) no projeto do Github.
