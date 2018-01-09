@@ -1,25 +1,15 @@
-# Nordweg Employee Handbook
+# Seja bem vindo à Nordweg!
 
-## Seções
+Estamos imensamente felizes em ter você aqui. Você foi convidado para fazer parte do nosso time porque acreditamos que você tem conhecimento e potencial para nos ajudar criar, cada vez mais, uma empresa inovadora e divertida, com excelentes produtos e alta satisfação dos clientes.
 
-- [Seja bem vindo à Nordweg](bem_vindo.md)
-- [Forma de trabalho](https://github.com/nordweg/handbook/blob/master/Forma%20de%20trabalho.md)
-- Conheça o time
-- Nossos rituais
-- Desenvolvendo deste handbook
-- Leitura inicial
+Queremos que sua experiência na Nordweg seja engrandecedora pessoal e profissionalmente, trabalhando entre pessoas que você admira em um ambiente de grade troca e evolução.
 
 
-## Pessoal
-- [O processo de contratação](https://github.com/nordweg/handbook/blob/master/Pessoal/O%20processo%20de%20contrata%C3%A7%C3%A3o.md)
+- [Forma de trabalho](forma_de_trabalho.md)
+- [O time](time.md)
+- [Nossos rituais](rituais.md)
+- [Leitura inicial](leitura.md)
+- [Segurança e política de senhas](seguranca.md)
 
 
-## Finanças
-- Contas bancárias
-- O pagamento de salários e comissões
-- O pagamento de contas
-
-
-## Desenvolvimento do software
-- Boas práticas
-- Git workflow
+Se você encontrar um erro de escrita, link quebrado, informação incompleta ou desatualizada, ou mesmo se acha importante adicionar alguma informação faltando, por favor [abra um novo issue](https://github.com/nordweg/handbook/issues) no projeto do Github.
