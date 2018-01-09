@@ -1,5 +1,4 @@
-![Foto do Igor](./Imagens/igor.png)
-
+![Foto do Igor](./imagens/igor.png)
 ## Igor Gaelzer
 **Fundador**
 
@@ -12,6 +11,7 @@ Estudou comércio exterior na faculdade, mas não concluiu. Aos 17 anos, começo
 Dentro da Nordweg, sua missão é criar e manter um time forte e unido, que trabalha focado em valores e na satisfação dos clientes, assim como uma empresa sólida e eficiente, que seja um exemplo de prosperidade e bom lugar para se trabalhar.
 
 
+![Foto do Igor](./imagens/bruna.png)
 ## Bruna Schaab
 **Atendimento**
 
@@ -30,6 +30,7 @@ Dentro da Nordweg, sua missão é cuidar da satisfação dos clientes, responder
 Por estar em contato direto com os clientes, é a primeira a ser consultada sempre que uma ação de marca está sendo planejada.
 
 
+![Foto do Igor](./imagens/iuri.png)
 ## Iuri Gaelzer
 **Produção**
 
