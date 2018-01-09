@@ -33,14 +33,10 @@ Por isso, ser flexível e adaptatável é fundamental para se manter relevante e
 
 Na Nordweg, tentamos ao máximo reduzir o custo de um erro e jamais devemos apontar erros de alguém que genuinamente está se esforçando para gerar um impacto positivo, mesmo que o resultado não tenha sido o esperado. Só não erra quem não tenta, e aqui criamos um ambiente onde é seguro tentar, voltar, e tentar de novo de forma diferente. Permita e encorage este tipo de comportamento ao seu redor.
 
-> O bom julgamento vem da experiência, e a experiência vem do mau julgamento. ― Rita Mae Brown, Alma Mater
-
 
 ### 3. Seja criativo, cabeça aberta e confie nas suas ideias
 
 Muitas vezes os nossos maiores obstáculos estão dentro da nossa própria cabeça. Imagine o que é possível alcançar e tenha confiança de que, com dedicação e bom trabalho em grupo, é possível alcançar resultados inimagináveis.
-
-> Se você pensa que pode ou se pensa que não pode, de ambas as formas você está certo. ― Henry Ford
 
 
 ### 4. Cresça e aprenda constantemente
@@ -50,10 +46,6 @@ Na Nordweg, o senso de movimento e avanço é muito importante. Não no sentido 
 
 ### 5. Crie relacionamentos abertos e honestos através da comunicação
 
-A comunicação é a base de qualquer time.
-
-> Most people do not listen with the intent to understand; they listen with the intent to reply. ― Stephen R. Covey
-
 
 ### 6. Crie um espírito de time positivo à sua volta
 
@@ -62,8 +54,6 @@ A comunicação é a base de qualquer time.
 
 Torne a abundância de ideias em foco. Quando você fala sim para algo, está falando não para todo o resto. Você provavelmente poderá fazer apenas 10% de tudo que consegue pensar, então identifique as ações com maior impacto e diga não a todas as outras. Separe o joio do trigo e aprenda a dizer não. Quando não souber se deve investir em uma ideia, pergunte-se Hell Yeah or No.
 
-> 80% dos resultados vem de 20% do esforço/tempo ― Vilfredo Pareto
-
 
 ### 8. Seja apaixonado e determinado
 
@@ -71,8 +61,6 @@ Torne a abundância de ideias em foco. Quando você fala sim para algo, está fa
 ### 9. Crie a vida que você quer viver
 
 Vemos o trabalho como forma de criar uma vida melhor. Nossa empresa é você, e você é responsável pela criação do um ótimo ambiente de trabalho, da sua prosperidade e a do grupo, das experiências que terá e como o seu trabalho afetará ao mundo ao seu redor. Seja o protagonista da sua vida, ativamente criando-a e contornando todos os obstáculos no caminho.
-
-> A melhor maneira de prever o futuro é criá-lo ― Peter Drucker
 
 
 ### 10. Seja humilde
