@@ -1,4 +1,4 @@
-![Foto do Igor](./imagens/igor.png)
+![Foto do Igor](imagens/igor.png)
 ## Igor Gaelzer
 **Fundador**
 
