@@ -1,6 +1,6 @@
-## Segurança e política de senhas
+# Segurança e política de senhas
 
-Por último, e de extrema importância, está a segurança da nossa informação. Você terá acesso a diversos aplicativos, pedidos, dados de clientes, dados financeiros e muito mais.
+De extrema importância, está a segurança da nossa informação. Você terá acesso a diversos aplicativos, pedidos, dados de clientes, dados financeiros e muito mais.
 
 Hoje em dia, ser invadido e ter informações roubadas ou apagadas é algo realmente fácil de acontecer, caso alguns cuidados básicos não forem tomados. Como uma empresa majoritariamente online, perder nosso site e nossos dados seria basicamente o nosso fim.
 
@@ -22,3 +22,17 @@ Coisas para lembrar:
 
   - Utilize o [1Password](https://1password.com/) para gerar uma senha de alta segurança diferente para cada aplicativo.
   - Utilize autenticação de dois passos sempre que possível. Obrigatório no email.
+
+## Instalando o 1Passowrd
+
+1. Receber o convite para fazer parte do time da Nordweg no 1Password para ter senhas compartilhadas.
+2. Fazer conta no 1Password através do convite recebido.
+3. Imprimir o Emergency Kit para recuperação de senha no futuro
+4. Baixar aplicativo no computador
+5. Instalar extenção do Chrome
+
+## Alterando a senha do Gmail
+
+1. Entre na [página de segurança](https://myaccount.google.com/security) do Google para alterar sua senha.
+2. No momento de digitar a nova senha, use o 1Parrword para gerar uma senha segura, como `*o4XBj=4Btg48[2*`.
+3. Certifique-se que a nova senha foi salva no 1Password.
