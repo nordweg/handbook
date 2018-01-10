@@ -26,13 +26,13 @@ Coisas para lembrar:
 ## Instalando o 1Passowrd
 
 1. Receber o convite para fazer parte do time da Nordweg no 1Password para ter senhas compartilhadas.
-2. Fazer conta no 1Password através do convite recebido.
-3. Imprimir o Emergency Kit para recuperação de senha no futuro
-4. Baixar aplicativo no computador
-5. Instalar extenção do Chrome
+2. Fazer conta no 1Password através do convite recebido. **Importante: Jamais utilize uma senha compartilhada neste passo. Está será sua senha mestra, que dará acesso a todas as outras senhas.**
+3. Imprimia o Emergency Kit gerado na instalação para a recuperação da senha no futuro.
+4. [Baixe o aplicativo no computador](https://1password.com/downloads/) e instale extenção do Chrome.
+5.
 
 ## Alterando a senha do Gmail
 
 1. Entre na [página de segurança](https://myaccount.google.com/security) do Google para alterar sua senha.
-2. No momento de digitar a nova senha, use o 1Parrword para gerar uma senha segura, como `*o4XBj=4Btg48[2*`.
+2. No momento de digitar a nova senha, use o 1Password para gerar uma senha segura, como `*o4XBj=4Btg48[2*`.
 3. Certifique-se que a nova senha foi salva no 1Password.
