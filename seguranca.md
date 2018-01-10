@@ -6,9 +6,9 @@ Hoje em dia, ser invadido e ter informações roubadas ou apagadas é algo realm
 
 A qualquer momento, você poderá receber uma email como este (email real que recebemos). Nestas horas, a realidade bate à porta e percebemos que segurança nunca é demais.
 
-***
+
 ![](imagens/hacker.jpg)
-***
+
 
 Por isso, utilizamos o aplicativo [1Password](https://1password.com/) para gerenciar nossas credenciais de acesso, gerando uma senha de alta segurança diferente de para cada site e aplicativo.
 
