@@ -4,7 +4,7 @@ De extrema importância, está a segurança da nossa informação. Você terá a
 
 Hoje em dia, ser invadido e ter informações roubadas ou apagadas é algo realmente fácil de acontecer, caso alguns cuidados básicos não forem tomados. Como uma empresa majoritariamente online, perder nosso site e nossos dados seria basicamente o nosso fim.
 
-A qualquer dia, um de nós poderá receber mais um destes emails e, nesses momentos, a realidade bate à porta. Segurança nunca é demais.
+A qualquer momento, você poderá receber uma email como este (email real que recebemos). Nestas horas, a realidade bate à porta e percebemos que segurança nunca é demais.
 
 ***
 ![](imagens/hacker.jpg)
