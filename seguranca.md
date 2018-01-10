@@ -4,9 +4,17 @@ De extrema importância, está a segurança da nossa informação. Você terá a
 
 Hoje em dia, ser invadido e ter informações roubadas ou apagadas é algo realmente fácil de acontecer, caso alguns cuidados básicos não forem tomados. Como uma empresa majoritariamente online, perder nosso site e nossos dados seria basicamente o nosso fim.
 
+A qualquer dia, um de nós poderá receber mais um destes emails e, nesses momentos, a realidade bate à porta. Segurança nunca é demais.
+
+***
+![](imagens/hacker.jpg)
+***
+
 Por isso, utilizamos o aplicativo [1Password](https://1password.com/) para gerenciar nossas credenciais de acesso, gerando uma senha de alta segurança diferente de para cada site e aplicativo.
 
 `Exemplo de senha: 4D4>b4GM8EyJ2fVvRXqQ{`
+
+
 
 ![](imagens/gerar_senha.jpg)
 
