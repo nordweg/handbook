@@ -11,7 +11,7 @@ Você esta aqui para ajudar a criar soluções que ainda não foram escritas, pa
 
 Dessa forma, podemos construir um ambiente de grande liberdade onde estamos livres para dar o nosso melhor e explorar nossa potencial criativo. Manter este tipo de ambiente funcional requer cuidado, energia, e um time de pessoas que conseguem entender e utilizar sua liberdade com responsabilidade.
 
-Um grande exemplo dessa forma de pensar e inpiração é o Netflix. Veja o [culture deck](https://pt.slideshare.net/BarbaraGill3/netflix-culture-deck) no Slideshare.
+Um grande exemplo dessa forma de pensar e inspiração é o Netflix. Veja o [culture deck](https://pt.slideshare.net/BarbaraGill3/netflix-culture-deck) no Slideshare.
 
 
 ## Rotina + flexibilidade
@@ -34,7 +34,7 @@ O mesmo se aplica a perguntas e outras questões que você possa ter em relaçã
 
 ## Foco na solução
 
-Somos um time enxuto e dinâmico em uma empresa de rápido crescimento. Isso que dizer que cada um de nós tem um número crescente de responsabilidades. Tarefas antes pequenas tornam-se grandes, e precisamos de novos integrantes para atendê-las com a velocidade e o cuidado necessários. É por isso que você está aqui.
+Somos um time enxuto e dinâmico em uma empresa de rápido crescimento. Isso quer dizer que cada um de nós tem um número crescente de responsabilidades. Tarefas antes pequenas tornam-se grandes, e precisamos de novos integrantes para atendê-las com a velocidade e o cuidado necessários. É por isso que você está aqui.
 
 Como novo integrante do time, é importante que você mantenha isso em mente e foque sempre nas soluções, em vez dos problemas. Parece simples, mas frequentemente problemas são identificados e imediatamente encaminhados para colaboradores senior, que por sua vez já estão sobrecarregados e que precisam de você especificamente para ajudá-los.
 
@@ -47,7 +47,7 @@ Um processo nada mais é do que uma descrição do passo a passo que determinada
 
 Processos simples, inteligentes e bem descritos são o segredo para uma empresa altamente funcional e com alto nível de satisfação. Quando bem feitos, todos sabem exatamente como agir nas tarefas do dia a dia, o que para o cliente se traduz em consistência e satisfação.
 
-Assim, cria-se uma base de conhecimento sólida e confiável sobre a qual vamos construindo. Novas experiências e apredndizados são incluídos, reduzindo significativamente as chances de erros se repetirem.
+Assim, cria-se uma base de conhecimento sólida e confiável sobre a qual vamos construindo. Novas experiências e aprendizados são incluídos, reduzindo significativamente as chances de erros se repetirem.
 
 É essencial que processos tenham sempre, como foco central, o ponto de vista do cliente. Eles jamais deverão ser limitantes a ponto de colocar em risco a experiência do cliente ou trazer complexidade ou burocracia excessiva. Pelo contrário, eles devem ser criados exclusivamente para indetificar e simplificar pontos de fricção e certificar que o cliente tenha a melhor experiência possível sempre.
 
@@ -69,13 +69,13 @@ Na Nordweg somos extremamente focados em produtividade. Acreditamos que não imp
 
 Alta produtividade significa que alcançamos grandes resultados com um equipe enxuta, o que possibilita as nossas boas remunerações em relação a média do mercado e alguns luxos como tempo para meditar, fazer feedbacks, viajar, contar com os melhores ferramentas de trabalho e etc.
 
-A mentalidade de produtividade e alto impacto é fundamental para que possamos alcançar nossos obetivos e manter a Nordweg como um ótimo lugar para trabalhar. Alto impacto não significa fazer as coisas correndo, estar sempre com a sensação de estar atrasado, apagando incêncios. Pelo contrário, alto impacto significa priorização, saber o que é importante, o que trás mais resultados e, também, saber separar momentos de diversão e descontração dos momentos de foco para ter tempo e espaço para trabalhar da melhor forma possível.
+A mentalidade de produtividade e alto impacto é fundamental para que possamos alcançar nossos obetivos e manter a Nordweg como um ótimo lugar para trabalhar. Alto impacto não significa fazer as coisas correndo, estar sempre com a sensação de estar atrasado, apagando incêndios. Pelo contrário, alto impacto significa priorização, saber o que é importante, o que trás mais resultados e, também, saber separar momentos de diversão e descontração dos momentos de foco para ter tempo e espaço para trabalhar da melhor forma possível.
 
 Pontos para lembrar:
 
 - É melhor pedir desculpas as vezes do que permissão sempre.
 - Pense sempre no impacto das suas ações no sistema. Se 5 pessoas fazem uma reunião de 1 hora, ela não custou 1 hora, mas sim 5. O mesmo se aplica a todos os tipos de situação, tome cuidado para não utilizar mais recursos do que o necessário.
-- É a nossa produtividade, quando fazemos mais com menos, que banca nossos pequenos luxos que outras empresas não podem oferecer. A diciplina vale a pena.
+- É a nossa produtividade, quando fazemos mais com menos, que banca nossos pequenos luxos que outras empresas não podem oferecer. A disciplina vale a pena.
 
 
 ## Inbox zero
