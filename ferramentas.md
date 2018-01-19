@@ -1,7 +1,7 @@
 Lista de ferramentas utilizadas para gestão.
 
-- [Bearshop](https://www.nordweg.com/admin/): Plataforma de e-commerce para gestão da pedidos online nacional.
-- [Enzo](http://enzoapp.com/): Gerenciamento custos de produção, estoques e pedidos da fábrica.
+- [Bearshop](https://www.nordweg.com/admin/): Plataforma de e-commerce para gestão de pedidos online nacional.
+- [Enzo](http://enzoapp.com/): Gerenciamento de custos de produção, estoques e pedidos da fábrica.
 - [Trello](https://trello.com/): Gestão de tarefas em grupo.
 - [Slack](https://slack.com/): Comunicação interna.
 - [Conta Azul](https://contaazul.com): Controle financeiro, estoque, fluxo de caixa e emissão de notas fiscais.
