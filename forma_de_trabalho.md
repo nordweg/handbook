@@ -7,9 +7,9 @@ Na Nordweg evitamos ao máximo burocracias e sistemas hierárquicos engessados, 
 
 Por isso, não temos chefes tradicionais, nem instruções ou mapas prontos. Temos processos definidos, sim. Mas processos escritos jamais poderão englobar todos os detalhes e centenas de escolhas diárias sendo feitas em uma grande marca.
 
-Você esta aqui para ajudar a criar soluções que ainda não foram escritas, para problemas que ainda no foram resolvidos. Você nos ajudará a desbravar novos caminhos e por isso terá em mãos grande responsabilidade.
+Você esta aqui para ajudar a criar soluções que ainda não foram escritas, para problemas que ainda não foram resolvidos. Você nos ajudará a desbravar novos caminhos e por isso terá em mãos grande responsabilidade.
 
-Dessa forma, podemos construir um ambiente de grande liberdade onde estamos livres para dar o nosso melhor e explorar nossa potencial criativo. Manter este tipo de ambiente funcional requer cuidado, energia, e um time de pessoas que conseguem entender e utilizar sua liberdade com responsabilidade.
+Dessa forma, podemos construir um ambiente de grande liberdade onde estamos livres para dar o nosso melhor e explorar nosso potencial criativo. Manter este tipo de ambiente funcional requer cuidado, energia, e um time de pessoas que conseguem entender e utilizar sua liberdade com responsabilidade.
 
 Um grande exemplo dessa forma de pensar e inspiração é o Netflix. Veja o [culture deck](https://pt.slideshare.net/BarbaraGill3/netflix-culture-deck) no Slideshare.
 
@@ -29,12 +29,12 @@ Com o crescimento do time, crescem também as interações e interrupções dura
 
 Saber respeitar o seu tempo e, principalmente, o dos outros, é fundamental. Antes de iniciar uma conversa, certifique-se que seus colegas não estão envolvidos em alguma tarefa que exija sua completa atenção, preferindo momentos que estejam menos focados, já envolvidos em uma conversa, arquivando emails ou levantando da sua mesa para tomar um café ou ir ao banheiro.
 
-O mesmo se aplica a perguntas e outras questões que você possa ter em relação ao seu trabalho. Você sempre é bem vindo a tirar suas dúvidas com com o time e deve fazê-lo quando necessário. No entanto, certifique-se de ter tentado resolver a questão utilizando o seu próprio tempo antes de utilizar o tempo precisoso de um dos seus colegas.
+O mesmo se aplica a perguntas e outras questões que você possa ter em relação ao seu trabalho. Você sempre é bem vindo a tirar suas dúvidas com o time e deve fazê-lo quando necessário. No entanto, certifique-se de ter tentado resolver a questão utilizando o seu próprio tempo antes de utilizar o tempo precioso de um dos seus colegas.
 
 
 ## Foco na solução
 
-Somos um time enxuto e dinâmico em uma empresa de rápido crescimento. Isso quer dizer que cada um de nós tem um número crescente de responsabilidades. Tarefas antes pequenas tornam-se grandes, e precisamos de novos integrantes para atendê-las com a velocidade e o cuidado necessários. É por isso que você está aqui.
+Somos um time enxuto e dinâmico em uma empresa de rápido crescimento. Isso quer dizer que cada um de nós tem um número crescente de responsabilidades. Tarefas antes pequenas tornam-se grandes, e precisamos de novos integrantes para atendê-las com a velocidade e o cuidado necessário. É por isso que você está aqui.
 
 Como novo integrante do time, é importante que você mantenha isso em mente e foque sempre nas soluções, em vez dos problemas. Parece simples, mas frequentemente problemas são identificados e imediatamente encaminhados para colaboradores senior, que por sua vez já estão sobrecarregados e que precisam de você especificamente para ajudá-los.
 
@@ -43,7 +43,7 @@ O melhor a fazer, sempre que possível, é propor uma sugestão junto com os pro
 
 ## Processos
 
-Um processo nada mais é do que uma descrição do passo a passo que determinadas pessoas devem tomar em determinadas situações para que a empresa funciona. Quando um pedido é feito, que passos devem ser tomados? Como fazer para pagar uma conta? Como prosseguir quando o produto de um cliente necessita de reparos?
+Um processo nada mais é do que uma descrição do passo a passo que determinadas pessoas devem tomar em determinadas situações para que a empresa funcione. Quando um pedido é feito, que passos devem ser tomados? Como fazer para pagar uma conta? Como prosseguir quando o produto de um cliente necessita de reparos?
 
 Processos simples, inteligentes e bem descritos são o segredo para uma empresa altamente funcional e com alto nível de satisfação. Quando bem feitos, todos sabem exatamente como agir nas tarefas do dia a dia, o que para o cliente se traduz em consistência e satisfação.
 
