@@ -1,8 +1,8 @@
 # Seja bem vindo à Nordweg!
 
-Estamos imensamente felizes em ter você aqui. Você foi convidado para fazer parte do nosso time porque acreditamos que você tem conhecimento e potencial para nos ajudar criar, cada vez mais, uma empresa inovadora e divertida, com excelentes produtos e alta satisfação dos clientes.
+Estamos imensamente felizes em ter você aqui. Você foi convidado para fazer parte do nosso time porque acreditamos que você tem conhecimento e potencial para nos ajudar a criar, cada vez mais, uma empresa inovadora e divertida, com excelentes produtos e alta satisfação dos clientes.
 
-Queremos que sua experiência na Nordweg seja engrandecedora pessoal e profissionalmente, trabalhando entre pessoas que você admira em um ambiente de grade troca e evolução.
+Queremos que sua experiência na Nordweg seja engrandecedora pessoal e profissionalmente, trabalhando entre pessoas que você admira em um ambiente de grande troca e evolução.
 
 - [Forma de trabalho](forma_de_trabalho.md)
 - [O time](time.md)
