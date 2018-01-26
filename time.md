@@ -71,3 +71,13 @@ Ama trabalhar na Nordweg e acredita nos valores da marca. Está em constante evo
 Lidera o processo de envios da loja online e está sempre focado na qualidade dos produtos, tentando ser tão crítico quanto os mais exigentes clientes da marca.
 
 Na fábrica, se desafiou a desenvolver uma cultura interna de cooperação, onde as pessoas se ajudam, podem confiar nos seus colegas e sentem orgulho em fazer parte, assim como acontece na Nordweg.
+
+## Lucas Kuhn
+**Software**
+
+Tem 23 anos e atualmente mora na cidade de Nova Petrópolis. Fez alguns intercâmbios, vários cursos de faculdade, e se apaixonou por São Francisco, na Califórnia. Achou na Picada Café um pedaçinho do Vale do Silício, e na Nordweg uma extensão de casa. Ama resolver qualquer tipo de problema, mesmo que seja algo completamente novo.
+
+Começou jogando vôlei, e hoje está sempre jogando tennis, seja em quadras de saibro ou de brincadeira no quintal de casa. Durante anos foi praticante de Parkour, esporte que ensinou a ver caminhos alternativos que ainda não foram trilhados. E foram caminhos alternativos e guiados por algumas coincidências que o levaram até a Nordweg.
+
+Passou 3 anos dando aulas de inglês, e aprendeu que parte de ensinar está em ouvir as pessoas. Ao se especializar em Desenvolvimento de Software, sempre buscou se atualizar e entender diversas maneiras de solucionar um problema, pois muitas vezes a melhor solução não é aquela que está acostumado a seguir. Na loja se sente muito bem de trabalhar com pessoas de áreas diferentes, observar como é feito o trabalho e desenvolver melhorias tanto para a fábrica quanto para os clientes. 
+
